@@ -1,5 +1,5 @@
 
-# **Quantization and Cyclic Precision Training **  
+# **Quantization and Cyclic Precision Training**  
 
 This repository explores post-training quantization and quantization-aware fine-tuning for the RoBERTa model using Fairseq. The project integrates techniques inspired by [Cyclic Precision Training (CPT)](https://arxiv.org/pdf/2101.09868) to improve the efficiency of large language models while maintaining performance on downstream tasks.  
 
